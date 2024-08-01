@@ -9,4 +9,3 @@ html5lib
 openai
 python-dotenv
 pymysql
-pyyaml
